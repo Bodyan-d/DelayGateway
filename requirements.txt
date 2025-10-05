@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+SQLAlchemy>=1.4
+asyncpg
+geoalchemy2
+psycopg2-binary
+pydantic
+PyJWT
+aioredis
+redis
+python-dotenv
+pydantic-settings
